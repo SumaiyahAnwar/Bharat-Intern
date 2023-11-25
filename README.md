@@ -1,1 +1,7 @@
 Data Science Intern Projects
+
+PROJECT 1:
+  SMS CLASSIFIER
+
+PROJECT 2:
+  CAT AND DOG IMAGE CLASSIFIER
